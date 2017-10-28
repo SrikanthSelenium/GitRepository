@@ -25,7 +25,8 @@ public class LoginTestPage {
 		username.sendKeys("Admin");
 		password.sendKeys("admin");
 		submit.click();
-	// adding a line to pull from git	
+	// adding a line to pull from git
+	//another line to check for similar cause
 		
 	}
 }
