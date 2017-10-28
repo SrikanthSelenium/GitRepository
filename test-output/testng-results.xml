@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="56570" started-at="2017-10-28T18:51:42Z" finished-at="2017-10-28T18:52:39Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="56570" started-at="2017-10-28T18:51:42Z" finished-at="2017-10-28T18:52:39Z">
+      <class name="setuptest.TestClass">
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String)[pri:0, instance:setuptest.TestClass@18d6a3]" name="setUp" is-config="true" duration-ms="7489" started-at="2017-10-29T00:21:35Z" finished-at="2017-10-29T00:21:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[http://opensource.demo.orangehrmlive.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="login()[pri:0, instance:setuptest.TestClass@18d6a3]" name="login" duration-ms="54775" started-at="2017-10-29T00:21:42Z" finished-at="2017-10-29T00:22:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:setuptest.TestClass@18d6a3]" name="tearDown" is-config="true" duration-ms="1530" started-at="2017-10-29T00:22:39Z" finished-at="2017-10-29T00:22:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- setuptest.TestClass -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
