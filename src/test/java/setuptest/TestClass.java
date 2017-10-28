@@ -22,7 +22,7 @@ import org.testng.annotations.Test;
 		{
 			LoginTestPage ltp = new LoginTestPage(d);
 			ltp.login();
-//			deleted line
+			// line uploaded to git now
 		}
 		
 		@AfterSuite
