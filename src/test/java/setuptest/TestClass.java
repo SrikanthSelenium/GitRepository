@@ -8,6 +8,7 @@ import org.testng.annotations.Test;
 	public class TestClass extends SetupClass {
 		
 	//	public WebDriver d;
+//		driver committed
 		SetupClass setclass;
 		
 		@BeforeSuite
